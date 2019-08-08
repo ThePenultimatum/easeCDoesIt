@@ -1,0 +1,6 @@
+*.o
+*.map
+*.hex
+*.zip
+*.pyc
+*.a
