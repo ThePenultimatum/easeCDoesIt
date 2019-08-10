@@ -19,15 +19,15 @@ bool Trie::isRoot(void){
 	return payload.empty();
 }
 
-int Trie::add(s string) {
+int Trie::add(string s) {
 	return 0;
 }
 
-int Trie::remove(s string) {
+int Trie::remove(string s) {
 	return 0;
 }
 
-bool Trie::search(s string) {
+bool Trie::search(string s) {
 	return 0;
 }
 
