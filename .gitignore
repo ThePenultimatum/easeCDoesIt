@@ -4,3 +4,6 @@
 *.zip
 *.pyc
 *.a
+*.so
+*.dll
+build/

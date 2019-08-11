@@ -1,4 +1,0 @@
-/home/mdyehous/gitRepos/work/otherRepos/easeCPPDoesIt/CMakeFiles/rebuild_cache.dir
-/home/mdyehous/gitRepos/work/otherRepos/easeCPPDoesIt/CMakeFiles/gtest.dir
-/home/mdyehous/gitRepos/work/otherRepos/easeCPPDoesIt/CMakeFiles/edit_cache.dir
-/home/mdyehous/gitRepos/work/otherRepos/easeCPPDoesIt/CMakeFiles/gtest_main.dir

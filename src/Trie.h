@@ -14,8 +14,6 @@ class Trie {
 
 		bool isEnd(void);
 
-		bool isRoot(void);
-
 		void printTrie(void);
 
 		int add(string s); // 0 if successfully added, 1 if not, 2 if error
@@ -25,6 +23,10 @@ class Trie {
 		int remove(string s); // 0 if successfully removed, 1 if error, 2 if not present
 
 		string payload;
+
+		bool isRoot;
+
+		bool isWord;
 
 		vector<Trie*> children;
 
