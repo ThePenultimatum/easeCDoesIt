@@ -43,8 +43,15 @@ int Trie::add(string s) {
 			(*t).add(cs);//addBelowRoot(cs);
 			children.push_back(t);
 		}
+	} else  if (len == 1) {
+		Trie *t = new Trie;
+		*t = Trie();
+		(*t).payload = c;
+		(*t).isRoot = false;
+		(*t).isWord = true;
+		children.push_back(t);		
 	} else {
-
+		return 0;
 	}
 	return 0; // maybe try and catch for error catching
 }
